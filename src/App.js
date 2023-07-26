@@ -6,9 +6,7 @@ function App() {
   return (
     <>
     <FriendRequest total="362" src={img} name="Ghullam Mustafa" />
-    <FriendRequest total="362" src={img} name="Ghullam Mustafa" />
-    <FriendRequest total="362" src={img} name="Ghullam Mustafa" />
-    <FriendRequest total="362" src={img} name="Ghullam Mustafa" />
+
     </>
   );
 }
