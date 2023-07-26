@@ -1,0 +1,53 @@
+.heading{
+    margin-left: 1rem;
+}
+.total{
+    color: red;
+}
+.img{
+    border-radius: 50%;
+    width: 5rem;
+    
+}
+
+.name{
+    font-family: inherit;
+    font-size: .9375rem;
+}
+.req{
+    display: flex;
+}
+
+.btn1{
+  
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    color:white;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    text-align: center;
+    background-color: rgb(87, 87, 206);
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.btn2{
+   
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    margin-left: 0.5rem;
+}
+
+.image{
+    /* margin-right:1rem; */
+    margin: 1rem;
+}
